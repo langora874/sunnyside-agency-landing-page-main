@@ -1,0 +1,151 @@
+body{
+    width: 1440px;
+}
+.container {
+    background-image: url(images/desktop/image-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    justify-content: baseline;
+    padding-top: 30px;
+}
+
+.creative {
+    text-align: center;
+    color: white;
+}
+
+
+.arrow {
+    margin-top: 20rem;
+
+
+}
+
+.transform-container {
+
+    display: flex;
+
+    justify-content: space-between;
+    background-color: aliceblue;
+}
+
+.Transform {
+
+  margin: auto;
+
+}
+
+.egg {
+   
+    display: flex;
+    justify-content: right;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+li {
+    list-style: none;
+}
+
+.cup-container {
+    display: flex;
+}
+
+
+
+.container-2 {
+  margin: auto;
+
+
+
+}
+
+.three {
+    display: flex;
+
+}
+
+.cherry {
+    background-image: url(images/desktop/image-graphic-design.jpg);
+    background-repeat: no-repeat;
+    width: 720px;
+    height: 65vh;
+    position:relative;
+    align-items: center;
+
+ 
+
+}
+
+.orange {
+    background-image: url(images/desktop/image-photography.jpg);
+    background-repeat: no-repeat;
+    width: 720px;
+}
+
+.testimonial {
+    display: flex;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+
+}
+
+.testimonial img {
+    border-radius: 100px;
+
+}
+
+.image {
+    height: 60vh;
+    display: flex;
+    width: 70vh;
+}
+.client{
+display: flex;
+justify-content: center;
+    
+}
+.Sunnyside{
+
+background-color: rgba(0, 100, 25, 0.329);
+height: 20vh;
+
+}
+.logo2{
+display: flex;
+justify-content: center;
+color: rgba(0, 100, 25, 0.329);
+
+}
+.text{
+    text-align: center;
+    margin-top: 350px;
+}
+.five{
+
+
+   display: flex;
+    justify-content: space-around;
+    justify-content: baseline;
+    padding-top: 30px;   
+}
